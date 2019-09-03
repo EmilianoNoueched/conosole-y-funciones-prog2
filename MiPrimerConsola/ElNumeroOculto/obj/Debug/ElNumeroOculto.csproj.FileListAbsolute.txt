@@ -1,0 +1,7 @@
+C:\Users\wis\Desktop\Programación 2\MiPrimerConsola\ElNumeroOculto\bin\Debug\ElNumeroOculto.exe.config
+C:\Users\wis\Desktop\Programación 2\MiPrimerConsola\ElNumeroOculto\bin\Debug\ElNumeroOculto.exe
+C:\Users\wis\Desktop\Programación 2\MiPrimerConsola\ElNumeroOculto\bin\Debug\ElNumeroOculto.pdb
+C:\Users\wis\Desktop\Programación 2\MiPrimerConsola\ElNumeroOculto\obj\Debug\ElNumeroOculto.csprojAssemblyReference.cache
+C:\Users\wis\Desktop\Programación 2\MiPrimerConsola\ElNumeroOculto\obj\Debug\ElNumeroOculto.csproj.CoreCompileInputs.cache
+C:\Users\wis\Desktop\Programación 2\MiPrimerConsola\ElNumeroOculto\obj\Debug\ElNumeroOculto.exe
+C:\Users\wis\Desktop\Programación 2\MiPrimerConsola\ElNumeroOculto\obj\Debug\ElNumeroOculto.pdb

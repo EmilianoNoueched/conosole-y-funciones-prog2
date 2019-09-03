@@ -1,0 +1,7 @@
+C:\Users\wis\Desktop\Programación 2\MiPrimerConsola\MiPrimerConsola\bin\Debug\MiPrimerConsola.exe.config
+C:\Users\wis\Desktop\Programación 2\MiPrimerConsola\MiPrimerConsola\bin\Debug\MiPrimerConsola.exe
+C:\Users\wis\Desktop\Programación 2\MiPrimerConsola\MiPrimerConsola\bin\Debug\MiPrimerConsola.pdb
+C:\Users\wis\Desktop\Programación 2\MiPrimerConsola\MiPrimerConsola\obj\Debug\MiPrimerConsola.csprojAssemblyReference.cache
+C:\Users\wis\Desktop\Programación 2\MiPrimerConsola\MiPrimerConsola\obj\Debug\MiPrimerConsola.csproj.CoreCompileInputs.cache
+C:\Users\wis\Desktop\Programación 2\MiPrimerConsola\MiPrimerConsola\obj\Debug\MiPrimerConsola.exe
+C:\Users\wis\Desktop\Programación 2\MiPrimerConsola\MiPrimerConsola\obj\Debug\MiPrimerConsola.pdb

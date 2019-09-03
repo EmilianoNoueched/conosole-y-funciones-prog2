@@ -1,0 +1,7 @@
+C:\Users\Emiliano\Desktop\introPOO\introPOO\introPOO\bin\Debug\introPOO.exe.config
+C:\Users\Emiliano\Desktop\introPOO\introPOO\introPOO\bin\Debug\introPOO.exe
+C:\Users\Emiliano\Desktop\introPOO\introPOO\introPOO\bin\Debug\introPOO.pdb
+C:\Users\Emiliano\Desktop\introPOO\introPOO\introPOO\obj\Debug\introPOO.csprojAssemblyReference.cache
+C:\Users\Emiliano\Desktop\introPOO\introPOO\introPOO\obj\Debug\introPOO.csproj.CoreCompileInputs.cache
+C:\Users\Emiliano\Desktop\introPOO\introPOO\introPOO\obj\Debug\introPOO.exe
+C:\Users\Emiliano\Desktop\introPOO\introPOO\introPOO\obj\Debug\introPOO.pdb
