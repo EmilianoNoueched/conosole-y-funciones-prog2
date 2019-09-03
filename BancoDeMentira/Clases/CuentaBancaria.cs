@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace CuentaBancaria.Clases
+namespace BancoDeMentira.Clases
 {
     public class CuentaBancaria
     {
@@ -50,7 +50,7 @@ namespace CuentaBancaria.Clases
 
         public void Setsaldo(short valorsaldo)
         {
-            this.saldo= valorsaldo;
+            this.saldo = valorsaldo;
         }
 
         public short Getsaldo()
@@ -75,7 +75,27 @@ namespace CuentaBancaria.Clases
             return this.pin;
         }
 
+        public string depositar(short montoADepositar)
+        {
+            if (montoADepositar > 0)
+            {
+                this.saldo += montoADepositar;
+                return "transaccion exitosa";
+            }
+            return "no es posible realizar esto gil";
+        }
+        public string extraer(short montoAExtraer)
+        {
+            if (montoAExtraer <= saldo)
+            {
+                this.saldo -= montoAExtraer;
+                return "transaccion exitosa";
+            }
+            return "no es posible sacar mas dinero del que tienes";
+        }
+
 
     }
+
 
 }

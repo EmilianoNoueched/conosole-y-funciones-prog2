@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{50A2211D-C8F0-4AA9-B89E-468A3EB40E88}</ProjectGuid>
+    <ProjectGuid>{18BA91CC-5B89-4C67-AE00-1BC65D43ECB4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CuentaBancaria</RootNamespace>
-    <AssemblyName>CuentaBancaria</AssemblyName>
+    <RootNamespace>BancoDeMentira</RootNamespace>
+    <AssemblyName>BancoDeMentira</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Clases\cuentaBancaria.cs" />
+    <Compile Include="Clases\CuentaBancaria.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

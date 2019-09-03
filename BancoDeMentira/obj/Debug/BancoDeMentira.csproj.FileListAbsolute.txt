@@ -1,0 +1,7 @@
+C:\Users\Emiliano\Desktop\Repo prog2\BancoDeMentira\bin\Debug\BancoDeMentira.exe.config
+C:\Users\Emiliano\Desktop\Repo prog2\BancoDeMentira\bin\Debug\BancoDeMentira.exe
+C:\Users\Emiliano\Desktop\Repo prog2\BancoDeMentira\bin\Debug\BancoDeMentira.pdb
+C:\Users\Emiliano\Desktop\Repo prog2\BancoDeMentira\obj\Debug\BancoDeMentira.csprojAssemblyReference.cache
+C:\Users\Emiliano\Desktop\Repo prog2\BancoDeMentira\obj\Debug\BancoDeMentira.csproj.CoreCompileInputs.cache
+C:\Users\Emiliano\Desktop\Repo prog2\BancoDeMentira\obj\Debug\BancoDeMentira.exe
+C:\Users\Emiliano\Desktop\Repo prog2\BancoDeMentira\obj\Debug\BancoDeMentira.pdb
