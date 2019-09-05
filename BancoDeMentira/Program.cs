@@ -23,6 +23,7 @@ namespace BancoDeMentira
             //otra que se llame extraer que lo disminuya controlando no pasarse del saldo que tengo
 
 
+            CuentaBancaria nuevaCuentaBancaria = new CuentaBancaria(numCuenta, titular, saldo, numero, pin);
 
             short numCuenta;
             string titular;
@@ -45,11 +46,10 @@ namespace BancoDeMentira
             Console.WriteLine("Ingrese pin: ");
             pin = short.Parse(Console.ReadLine());
 
-
-
-            CuentaBancaria nuevaCuentaBancaria = new CuentaBancaria(numCuenta, titular, saldo, numero, pin);
-
             nuevaCuentaBancaria.Setpin(1234);
+
+
+
 
             Console.WriteLine("**************** Datos de la nueva cuenta ******************");
             Console.WriteLine("numCuenta: " + nuevaCuentaBancaria.GetnumCuenta());
@@ -57,6 +57,8 @@ namespace BancoDeMentira
             Console.WriteLine("saldo: " + nuevaCuentaBancaria.Getsaldo());
             Console.WriteLine("pin: " + nuevaCuentaBancaria.Getpin());
             Console.WriteLine("numero: " + nuevaCuentaBancaria.Getnumero());
+
+
             Console.WriteLine(nuevaCuentaBancaria.depositar(100));
             Console.WriteLine(nuevaCuentaBancaria.extraer(500));
             Console.ReadKey();
